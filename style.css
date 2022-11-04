@@ -10,7 +10,7 @@ background-color: black;
 color: #61122F;
 }
 body{
-	background-color: #e6ed24;
+	background-color: #61122F;
 	color: white;
 }
 .glyphicon{
@@ -20,12 +20,12 @@ body{
 
 .center{
 	width: 90%;
-	background-color: #c4ffff;
+	background-color: grey;
 
 }
 .container
 {
-	background-color: #c4ffff;
+	background-color: grey;
 }
 .text-center{
 	font-size: 30px;
