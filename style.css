@@ -10,11 +10,11 @@ background-color: black;
 color: #61122F;
 }
 body{
-	background-color: #61122F;
-	color: white;
+	background-color: #fffc3b;
+	color: black;
 }
 .glyphicon{
-	font-size: 30px;
+	font-size:40px;
 	color:#61122F; 
 }
 
@@ -28,7 +28,7 @@ body{
 	background-color: grey;
 }
 .text-center{
-	font-size: 30px;
+	font-size: 50px;
 }
 
 h2{
